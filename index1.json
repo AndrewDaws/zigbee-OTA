@@ -2828,16 +2828,6 @@
     "otaHeaderString": "EBL VM_SWITCH"
   },
   {
-    "fileName": "60G_Radar_OTA_V24_v1.00.24.ota",
-    "fileVersion": 24,
-    "fileSize": 349302,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/ThirdReality/60G_Radar_OTA_V24_v1.00.24.ota",
-    "imageType": 54211,
-    "manufacturerCode": 5127,
-    "sha512": "f071aa4bfd06f015819f67472d967380dfb2111b4b02d6f1d0344afbe90a37cdeaac8c761f8fed6d25377dacd89407fbddd983442505d6b51a850b837448c02b",
-    "otaHeaderString": "temp_humi_sensor"
-  },
-  {
     "fileName": "MCU_SELECT_TW_RGB-0x1189-0x00F7-0x01368000-MF_DIS-DOWM_DIS-20250731080530-3224010153640-lzma-encrypted.ota",
     "fileVersion": 20348928,
     "fileSize": 359342,
@@ -3191,5 +3181,15 @@
       "ZBeacon"
     ],
     "modelId": "MC-z"
+  },
+  {
+    "fileName": "60G_Radar_OTA_V25_v1.00.25.ota",
+    "fileVersion": 25,
+    "fileSize": 349302,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/ThirdReality/60G_Radar_OTA_V25_v1.00.25.ota",
+    "imageType": 54211,
+    "manufacturerCode": 5127,
+    "sha512": "05571052672eb92487bc436549f5dd11d084c6f1671d27c6de9fd446ed95339c71ff33953013153e29f814824b265b295a9b47452e1201d7386b4126f522188a",
+    "otaHeaderString": "temp_humi_sensor"
   }
 ]
