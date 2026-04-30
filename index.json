@@ -9637,5 +9637,15 @@
     "manufacturerCode": 5127,
     "sha512": "e1486d6d44870cd48ee9862233ba2e1686f558c3470f78cfbb504cdecdb0666a2714aa19788045397106556b318592828de596d81fba349c02c16765c2c5db47",
     "otaHeaderString": "temp_humi_sensor"
+  },
+  {
+    "fileName": "SN-TLSR8656-S60-01-v2.0.2.ota",
+    "fileVersion": 8194,
+    "fileSize": 147232,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/SN-TLSR8656-S60-01-v2.0.2.ota",
+    "imageType": 11,
+    "manufacturerCode": 4742,
+    "sha512": "dfddb274c4d549f0ea0e155592191e19409ef7368072e9bf0f9af4889e23cd3dfeeee849cdfbfc4afcb595301b391e9d66ccef49985f02bc90a8043b4f34989a",
+    "otaHeaderString": "Telink OTA Sample Usage"
   }
 ]
