@@ -9675,5 +9675,20 @@
       "Sonoff"
     ],
     "modelId": "ZG-204ZL-z"
+  },
+  {
+    "fileName": "freezbee-v0.1.5.ota",
+    "fileVersion": 261,
+    "fileSize": 251022,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Netica/freezbee-v0.1.5.ota",
+    "imageType": 0,
+    "manufacturerCode": 65535,
+    "sha512": "2d3bf5a83b395c3202bceaa5000f3e3439f599fbcce12c1a51458fe4b29ae16160fa93f2687a5d0c25d7f12e10cdc3b350302b8ce8a878299912f308036259cc",
+    "otaHeaderString": "FRZ1",
+    "manufacturerName": [
+      "Netica"
+    ],
+    "modelId": "FRZ1",
+    "releaseNotes": "FreezBee v0.1.5 : détection chauffage et autonomie améliorées"
   }
 ]
