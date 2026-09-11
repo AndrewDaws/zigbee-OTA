@@ -7881,16 +7881,6 @@
     "otaHeaderString": "Telink OTA Sample Usage"
   },
   {
-    "fileName": "snzb-02dr2_v1.0.4.ota",
-    "fileVersion": 4100,
-    "fileSize": 208432,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/snzb-02dr2_v1.0.4.ota",
-    "imageType": 2064,
-    "manufacturerCode": 4742,
-    "sha512": "1aab2e361c65211f5db43ad8eb8781a8375953222f8e5fdae3716c3b07c5383b6a0ae88994fa48b1c71f1b53b2b5d6e9ac0f5a3f342506af2d778e5ed2e7073f",
-    "otaHeaderString": "FIRMWARE"
-  },
-  {
     "fileName": "trvzb_v1.4.4.ota",
     "fileVersion": 5124,
     "fileSize": 332220,
@@ -10422,5 +10412,16 @@
     "manufacturerCode": 4714,
     "sha512": "9a8eac82b7405163716ef111017da3aafc1f64dadc43f4efff0632c38f85d30b3d07f335e1c019d7df4f51325570d9eaf981fcf5bf4eba95c5d199f7ccdc04ca",
     "otaHeaderString": "EBL y809-zg"
+  },
+  {
+    "fileName": "SN-TLSR8656-02DR2-01-v1.0.5.ota",
+    "fileVersion": 4101,
+    "fileSize": 212400,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/SN-TLSR8656-02DR2-01-v1.0.5.ota",
+    "imageType": 2064,
+    "manufacturerCode": 4742,
+    "sha512": "a85f87b87ff388f9f0fe34ffb1e1419fb05c4d8864a44f9657ffd6ca565358f43ec96222fcaf4f26dcd9fb1e09ddde23773e924ce15caa548b0eec5ce0d0bf19",
+    "otaHeaderString": "FIRMWARE",
+    "releaseNotes": "Home Assistant and eWeLink ecosystem gateways now support two remote temperature and humidity data sources.\n\nFixed several known issues to improve system stability."
   }
 ]
